@@ -1,5 +1,5 @@
 # Car-Dealership-Simulator
-This is a Command Line based program that simulates a Car Dealership based on user input and a txt file of cars. It works in a way that cars can be bought, sorted, filtered and returned. It is very user friendly, so any incorrect command will be caught and user will be told to correct the error.
+This is a Command Line based program that simulates a Car Dealership based on user input and a txt file of cars which can be [generated](https://squishy123.github.io/carsgen/). It works in a way that cars can be bought, sorted, filtered and returned. It is very user friendly, so any incorrect command will be caught and user will be told to correct the error.
 
 **Note: RET only works when there is a transaction id of type buy is 
         inputted after it or just RET in which it returns the last buy 
